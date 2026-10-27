@@ -12,10 +12,7 @@
       "url": "https://odin.borghq.io/api/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "read",
-          "write"
-        ]
+        "scopes": ["read", "write"]
       }
     }
   ]
